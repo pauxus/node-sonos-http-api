@@ -21,6 +21,7 @@ var settings = {
   cacheDir: path.resolve(__dirname, 'cache'),
   webroot: path.resolve(__dirname, 'static'),
   presetDir: path.resolve(__dirname, 'presets'),
+  shortcutsDir: path.resolve(__dirname, 'shortcuts'),
   announceVolume: 40
 };
 
